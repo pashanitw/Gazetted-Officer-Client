@@ -1,0 +1,29 @@
+{
+  "name": "Gazetted-Officer-Client",
+  "version": "0.0.0",
+  "homepage": "https://github.com/pashanitw/Gazetted-Officer-Client",
+  "description": "web clinet of new app",
+  "main": "index.html",
+  "moduleType": [
+    "globals"
+  ],
+  "authors": [
+    "John Pasha",
+    "Pasha Plus"
+  ],
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "devDependencies": {
+    "jquery": "~2.1.3",
+    "handlebars": "~3.0.0",
+    "github-api": "~0.10.3",
+    "bootstrap": "~3.3.2"
+  }
+}
